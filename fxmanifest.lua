@@ -5,7 +5,7 @@ description 'qb-radar'
 version '1.0'
 author 'Shomy#5088'
 
-shared_scripts 'config.lua'
+shared_script 'config.lua'
 client_script 'client.lua'
 server_script 'server.lua'
 
