@@ -1,5 +1,10 @@
 Config = {}
 
+Config.UseKmh = true
+
+Config.SpeedLimitKmh = 100
+Config.SpeedLimitMph = 60
+
 Config.RadarCost = 50
 
 Config.Radars = {
